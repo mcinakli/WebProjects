@@ -10,6 +10,9 @@ This is sample ASP.NET web application.
 
 ## MongoDB-WebApi-master
 This is mongodb test project.
+Get games data from mongo database and serve as webapi RESTFull service.
+To view data go to :
+http://localhost:9200/api/games
 
 ## mvc
 This is mvc test project.
