@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mc/SW/Dotnet/B_Tests/Web/AspNetCoreWithAngular/AspNetCoreWithAngular.csproj": {}
+  },
+  "projects": {
+    "/home/mc/SW/Dotnet/B_Tests/Web/AspNetCoreWithAngular/AspNetCoreWithAngular.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mc/SW/Dotnet/B_Tests/Web/AspNetCoreWithAngular/AspNetCoreWithAngular.csproj",
+        "projectName": "AspNetCoreWithAngular",
+        "projectPath": "/home/mc/SW/Dotnet/B_Tests/Web/AspNetCoreWithAngular/AspNetCoreWithAngular.csproj",
+        "packagesPath": "/home/mc/.nuget/packages/",
+        "outputPath": "/home/mc/SW/Dotnet/B_Tests/Web/AspNetCoreWithAngular/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
