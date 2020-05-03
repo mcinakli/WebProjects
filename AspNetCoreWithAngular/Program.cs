@@ -1,6 +1,3 @@
-// To run program write : dotnet run 
-// error : Unable to obtain lock file access on : sudo chown -R mc:mc /tmp/NuGetScratch/
-
 using System;
 using System.Collections.Generic;
 using System.IO;
