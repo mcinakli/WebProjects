@@ -8,9 +8,9 @@ This is sample ASP.NET web application. Simple gui, some pages served in the Pag
 
 ## MongoDB-WebApi-master
 This is mongodb test project which fetch games list from the mongo database and serve it as webapi RESTFull service.
-To view data go to : http://localhost:9200/api/games
+To view data go to : localhost:9200/api/games
 
 ## mvc
-This is mvc test project.
+This is mvc test project, classic bootstrap template containing sample pages.
 
 
